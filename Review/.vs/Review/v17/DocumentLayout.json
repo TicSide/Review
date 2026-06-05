@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Review\\Review\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|c:\\users\\user\\desktop\\review\\review\\review\\exercise\\findproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|solutionrelative:review\\exercise\\findproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|c:\\users\\user\\desktop\\review\\review\\review\\exercise\\welcomemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|solutionrelative:review\\exercise\\welcomemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|c:\\users\\user\\desktop\\review\\review\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|solutionrelative:review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|c:\\users\\user\\desktop\\review\\review\\review\\exercise\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD28B5D-2F06-4F52-BBED-8DBC65D676DC}|Review\\Review.csproj|solutionrelative:review\\exercise\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FindProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\FindProduct.cs",
+              "RelativeDocumentMoniker": "Review\\Exercise\\FindProduct.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\FindProduct.cs*",
+              "RelativeToolTip": "Review\\Exercise\\FindProduct.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:08:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "Review\\Exercise\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\AreaCalculator.cs",
+              "RelativeToolTip": "Review\\Exercise\\AreaCalculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:49:04.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomeMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\WelcomeMessage.cs",
+              "RelativeDocumentMoniker": "Review\\Exercise\\WelcomeMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Exercise\\WelcomeMessage.cs",
+              "RelativeToolTip": "Review\\Exercise\\WelcomeMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:43:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Program.cs",
               "RelativeDocumentMoniker": "Review\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Program.cs",
-              "RelativeToolTip": "Review\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Review\\Review\\Review\\Program.cs*",
+              "RelativeToolTip": "Review\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T12:22:30.918Z",
               "EditorCaption": ""

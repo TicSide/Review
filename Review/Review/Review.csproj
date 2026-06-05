@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercise\AreaCalculator.cs" />
+    <Compile Include="Exercise\FindProduct.cs" />
+    <Compile Include="Exercise\WelcomeMessage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
