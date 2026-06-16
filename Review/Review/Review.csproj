@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Exercise\AreaCalculator.cs" />
     <Compile Include="Exercise\FindProduct.cs" />
+    <Compile Include="Exercise\Nubes.cs" />
+    <Compile Include="Exercise\Params.cs" />
+    <Compile Include="Exercise\Profile.cs" />
     <Compile Include="Exercise\WelcomeMessage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
