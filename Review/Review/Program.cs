@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Review.TryCatch;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace Review
     {
         static void Main(string[] args)
         {
+            Tryed tryed= new Tryed();
+            tryed.Exercise1();
+
         }
     }
 }
