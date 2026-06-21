@@ -6,3 +6,10 @@ C:\Users\User\Desktop\Review\Review\Review\obj\Debug\Review.csproj.CoreCompileIn
 C:\Users\User\Desktop\Review\Review\Review\obj\Debug\Review.exe
 C:\Users\User\Desktop\Review\Review\Review\obj\Debug\Review.pdb
 C:\Users\User\Desktop\Review\Review\Review\obj\Debug\Review.exe.config
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\obj\Debug\Review.exe
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\obj\Debug\Review.pdb
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\bin\Debug\Review.exe.config
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\bin\Debug\Review.exe
+C:\Users\omarr\OneDrive\Desktop\AplicacionDeSubtitulos\Review\Review\Review\bin\Debug\Review.pdb
